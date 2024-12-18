@@ -1,5 +1,5 @@
 ## E aí! Eu sou o Felipe Godinho 👋
 
-- 🔭 Hoje trabalho com Governança de TI;
+- 💻 Hoje trabalho com Governança de TI;
 - 🧠 Estudo administração na UFSC;
-- 🌱 Estou aprendendo sobre análise de dados;
+- 📊 Estou aprendendo sobre análise de dados;
